@@ -8,6 +8,6 @@ It showcases my proficiency in SQL query writing and knowledge of advanced SQL c
 NOTE:
   - Solutions are coded with PostgreSQL
 
-As links to different sections of the notebook does not work with Github rendering, an alternate version where the links work is provided below. 
+As links to different sections of the notebook(toc) does not work with Github rendering, an alternate version using nbviewer where the links work is provided below. 
 
-https://nbviewer.org/github/hyuan0/8_Week_SQL_Challenge/blob/main/challenge2_pizza_runner.ipynb#Data-Preprocessing
+- [Case Study 2 - Pizza Runner](https://nbviewer.org/github/hyuan0/8_Week_SQL_Challenge/blob/main/challenge2_pizza_runner.ipynb)
